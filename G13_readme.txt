@@ -1,5 +1,9 @@
 README for G13
 --------------
+Group Members:
+Annika Timermanis, 40131128
+Axel Solano, 40046154
+AmirHossein Hadinezhad, 
 
 Our project relies mainly on:
 - sklearn
@@ -26,8 +30,6 @@ Our code submission contains the following files:
    2) cnn.ipynb 
    3) Decision_tree.ipynb
    4) report.ipynb
-
-* GPU is not required.
 
 * Training times vary, most models can be trained within 5-10 minutes. Datasets that caused all models training times to be very long to  are listed as follows:
 - GPU kernel (Regression), +10 hours.
