@@ -1,4 +1,4 @@
-# [Machine Learning Project](https://github.com/Amir-h055/Comp-472-Line-em-up)
+# [Machine Learning Project](https://github.com/axelsolano/432)
 ### Table of Contents
 1. [Contributors](#Contributor)
 2. [Guide](#Guide)
